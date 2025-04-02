@@ -7,6 +7,6 @@ public class Main {
         System.out.println("welcom world -> Sreenivasulu daggolu!");
     }
     public static void doSomething(){
-        System.out.println("world -> Sreenivasulu!");
+        System.out.println("world  Sreenivasulu!");
     }
 }
