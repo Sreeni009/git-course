@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello world -> Sreenivasulu daggolu!");
     }
     public static void printSomething(){
+        System.out.println("Sreenivasulu");
         System.out.println("world  Sreenivasulu daggolu!");
     }
      public static void doSomething(){
